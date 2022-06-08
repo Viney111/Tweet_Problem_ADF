@@ -2,7 +2,11 @@
 # The Python Worker is managed by Azure Functions platform
 # Manually managing azure-functions-worker may cause unexpected issues
 
+
 azure-functions
 pandas
+nltk
 tweepy
 azure-storage-blob
+scikit-learn==0.22.2
+sklearn
