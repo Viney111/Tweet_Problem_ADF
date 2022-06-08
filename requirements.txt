@@ -10,3 +10,4 @@ tweepy
 azure-storage-blob
 scikit-learn==0.22.2
 sklearn
+pymongo
